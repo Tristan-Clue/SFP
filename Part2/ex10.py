@@ -1,0 +1,1 @@
+def say_hi(string) : print(f"Greeting {string}")
