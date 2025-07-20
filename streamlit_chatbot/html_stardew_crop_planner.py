@@ -26,7 +26,7 @@ crops_data = {
 }
 
 crop_images = {
-    "Parsnip": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/88/Parsnip.png/32px-Parsnip.png",
+    "Parsnip": "https://stardewvalleywiki.com/mediawiki/images/d/db/Parsnip.png",
     "Cauliflower": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/fd/Cauliflower.png/32px-Cauliflower.png",
     "Green Bean": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Green_Bean.png/32px-Green_Bean.png",
     "Tomato": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/95/Tomato.png/32px-Tomato.png",
