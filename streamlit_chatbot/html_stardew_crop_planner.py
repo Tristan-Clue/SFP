@@ -29,12 +29,12 @@ crop_images = {
     "Parsnip": "https://stardewvalleywiki.com/mediawiki/images/d/db/Parsnip.png",
     "Cauliflower": "https://stardewvalleywiki.com/mediawiki/images/a/aa/Cauliflower.png",
     "Green Bean": "https://stardewvalleywiki.com/mediawiki/images/5/5c/Green_Bean.png",
-    "Tomato": "https://stardewvalleywiki.com/mediawiki/images/8/88/Tomato.png",
-    "Blueberry": "https://stardewvalleywiki.com/mediawiki/images/2/20/Blueberry.png",
+    "Tomato": "https://stardewvalleywiki.com/mediawiki/images/9/9d/Tomato.png",
+    "Blueberry": "https://stardewvalleywiki.com/mediawiki/images/9/9e/Blueberry.png",
     "Hot Pepper": "https://stardewvalleywiki.com/mediawiki/images/f/f1/Hot_Pepper.png",
-    "Corn": "https://stardewvalleywiki.com/mediawiki/images/9/91/Corn.png",
+    "Corn": "https://stardewvalleywiki.com/mediawiki/images/f/f8/Corn.png",
     "Pumpkin": "https://stardewvalleywiki.com/mediawiki/images/6/64/Pumpkin.png",
-    "Grape": "https://stardewvalleywiki.com/mediawiki/images/a/a0/Grape.png",
+    "Grape": "https://stardewvalleywiki.com/mediawiki/images/c/c2/Grape.png",
 }
 
 festival_closures = {
