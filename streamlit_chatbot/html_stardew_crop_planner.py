@@ -11,6 +11,7 @@ crops_data = {
         {"Crop": "Parsnip", "Growth Days": 4, "Regrowth": 0},
         {"Crop": "Cauliflower", "Growth Days": 12, "Regrowth": 0},
         {"Crop": "Green Bean", "Growth Days": 10, "Regrowth": 3},
+        {"Crop": "Blue Jazz", "Growth Days": 7, "Regrowth": 0}
     ],
     "Summer": [
         {"Crop": "Tomato", "Growth Days": 11, "Regrowth": 4},
@@ -35,6 +36,7 @@ crop_images = {
     "Corn": "https://stardewvalleywiki.com/mediawiki/images/f/f8/Corn.png",
     "Pumpkin": "https://stardewvalleywiki.com/mediawiki/images/6/64/Pumpkin.png",
     "Grape": "https://stardewvalleywiki.com/mediawiki/images/c/c2/Grape.png",
+    "Blue Jazz": "https://stardewvalleywiki.com/mediawiki/images/2/2f/Blue_Jazz.png"
 }
 
 festival_closures = {
