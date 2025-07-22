@@ -26,7 +26,7 @@ crops_data = {
         {"Crop": "Pumpkin", "Growth Days": 13, "Regrowth": 0},
         {"Crop": "Grape", "Growth Days": 10, "Regrowth": 3},
         {"Crop": "Cranberries", "Growth Days": 7, "Regrowth": 5},
-        {"Crop": "Fairy Rose", "Growth Days": 12, "Regrowth": 3}
+        {"Crop": "Fairy Rose", "Growth Days": 12, "Regrowth": 0}
     ],
     "Winter": []  # No crops grow in winter by default
 }
