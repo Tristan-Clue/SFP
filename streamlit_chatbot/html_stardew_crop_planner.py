@@ -25,6 +25,8 @@ crops_data = {
         {"Crop": "Corn", "Growth Days": 14, "Regrowth": 4},
         {"Crop": "Pumpkin", "Growth Days": 13, "Regrowth": 0},
         {"Crop": "Grape", "Growth Days": 10, "Regrowth": 3},
+        {"Crop": "Cranberries", "Growth Days": 7, "Regrowth": 5},
+        {"Crop": "Fairy Rose", "Growth Days": 12, "Regrowth": 3}
     ],
     "Winter": []  # No crops grow in winter by default
 }
@@ -42,7 +44,9 @@ crop_images = {
     "Blue Jazz": "https://stardewvalleywiki.com/mediawiki/images/2/2f/Blue_Jazz.png",
     "Kale": "https://stardewvalleywiki.com/mediawiki/images/d/d1/Kale.png",
     "Summer Spangle": "https://stardewvalleywiki.com/mediawiki/images/9/9f/Summer_Spangle.png",
-    "Wheat": "https://stardewvalleywiki.com/mediawiki/images/e/e2/Wheat.png"
+    "Wheat": "https://stardewvalleywiki.com/mediawiki/images/e/e2/Wheat.png",
+    "Cranberries": "https://stardewvalleywiki.com/mediawiki/images/6/6e/Cranberries.png",
+    "Fairy Rose": "https://stardewvalleywiki.com/mediawiki/images/5/5c/Fairy_Rose.png"
 }
 
 festival_closures = {
