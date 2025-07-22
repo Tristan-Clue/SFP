@@ -11,12 +11,15 @@ crops_data = {
         {"Crop": "Parsnip", "Growth Days": 4, "Regrowth": 0},
         {"Crop": "Cauliflower", "Growth Days": 12, "Regrowth": 0},
         {"Crop": "Green Bean", "Growth Days": 10, "Regrowth": 3},
-        {"Crop": "Blue Jazz", "Growth Days": 7, "Regrowth": 0}
+        {"Crop": "Blue Jazz", "Growth Days": 7, "Regrowth": 0},
+        {"Crop": "Kale", "Growth Days": 6, "Regrowth": 0}
     ],
     "Summer": [
         {"Crop": "Tomato", "Growth Days": 11, "Regrowth": 4},
         {"Crop": "Blueberry", "Growth Days": 13, "Regrowth": 4},
         {"Crop": "Hot Pepper", "Growth Days": 5, "Regrowth": 3},
+        {"Crop": "Summer Spangle", "Growth Days": 8, "Regrowth": 0},
+        {"Crop": "Wheat", "Growth Days": 4, "Regrowth": 0}
     ],
     "Fall": [
         {"Crop": "Corn", "Growth Days": 14, "Regrowth": 4},
@@ -36,7 +39,10 @@ crop_images = {
     "Corn": "https://stardewvalleywiki.com/mediawiki/images/f/f8/Corn.png",
     "Pumpkin": "https://stardewvalleywiki.com/mediawiki/images/6/64/Pumpkin.png",
     "Grape": "https://stardewvalleywiki.com/mediawiki/images/c/c2/Grape.png",
-    "Blue Jazz": "https://stardewvalleywiki.com/mediawiki/images/2/2f/Blue_Jazz.png"
+    "Blue Jazz": "https://stardewvalleywiki.com/mediawiki/images/2/2f/Blue_Jazz.png",
+    "Kale": "https://stardewvalleywiki.com/mediawiki/images/d/d1/Kale.png",
+    "Summer Spangle": "https://stardewvalleywiki.com/mediawiki/images/9/9f/Summer_Spangle.png",
+    "Wheat": "https://stardewvalleywiki.com/mediawiki/images/e/e2/Wheat.png"
 }
 
 festival_closures = {
